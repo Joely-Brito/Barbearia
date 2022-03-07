@@ -95,3 +95,47 @@ footer {
     margin-top: 20px;
 
 }
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+form {
+    margin: 40px 0px;
+}
+
+form label, legend {
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.input-padrao {
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.checkbox {
+    margin: 20px 0px;
+}
+
+.btn-enviar {
+    font-size: 18px;
+    font-weight: bold;
+    width: 30%;
+    background: orange;
+    color: black;;
+    padding: 15px 0px;
+    border-radius: 8px;
+    border: 1px solid black;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.btn-enviar:hover {
+    background: darkorange;
+    transform: scale(1.1);
+}
