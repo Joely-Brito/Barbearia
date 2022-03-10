@@ -1,3 +1,10 @@
+body {
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+
+
+
 header {
     background: #BBBBBB;
     padding: 20px;
@@ -161,6 +168,13 @@ td, th {
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
+    clear: left;
+}
+
+.utensilios {
+    width:150px ;
+    float: left;
+    margin: 0px 20px 20px 0px;
 }
 
 .principal p {
@@ -170,6 +184,8 @@ td, th {
 .principal strong {
     font-weight: bold;
 }
+
+.banner
 
 .principal em {
     font-style: italic;
