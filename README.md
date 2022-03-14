@@ -14,7 +14,7 @@ Projeto desenvolvido durante a trilha de estudos da Alura, onde apliquei os conh
 ## O projeto :fire:
 
 <div align="center">
-    <img src="./imagem/barbearia_apresentacao.gif" alt="gif barbearia alura">
+    <img src="./imagens/barbearia_apresentacao.gif" alt="gif barbearia alura">
 </div>
 
 #
